@@ -1,0 +1,118 @@
+@font-face {
+	font-family: 'Roboto';
+	font-weight: 400;
+	font-display: swap;
+	font-style: normal;
+	font-named-instance: 'Regular';
+	src: url(/fonts/Roboto/Roboto.ttf) format("truetype");
+  }
+
+$background-color: #fafbf6;
+$text-color: #565a75;
+
+html {
+	background-color: $background-color;
+	color: $text-color;
+	font-family: 'Roboto', sans-serif;
+
+	a.no-link {
+		color: $text-color;
+	}
+
+	body {
+		margin: 50px 10%;
+	}
+
+	h2 {
+		margin: 40px 0 10px;
+	}
+
+	#header {
+		margin: 40px 0 20px;
+		display: flex;
+		flex-wrap: wrap;
+		flex-direction: row;
+		justify-content: space-between;
+
+		#icons {
+			align-self: center;
+
+			* {
+				margin: 0 5px;
+			}
+		}
+	}
+
+	.search {
+		text-align: center;
+		margin-top: 50px;
+
+		input {
+			width: 50%;
+			min-width: 250px;
+			height: 45px;
+			border: 2px solid $text-color;
+			border-radius: 5px;
+			padding: 8px 16px;
+			transition: 0.5s;
+
+			&:hover {
+				transform: translateY(-5px);
+			}
+		}
+
+	}
+
+	#knight-skins {
+		margin-top: 25px;
+		display: flex;
+		flex-wrap: wrap;
+		gap: 10px;
+		flex-direction: row;
+		justify-content: center;
+
+		.skin-card {
+			border: 2px solid $text-color;
+			padding: 8px 16px 16px 16px;
+			border-radius: 5px;
+			width: 258px;
+			background-color: white;
+			text-align: center;
+			transition: 0.5s;
+			position: relative;
+
+			img {
+				margin: 15px;
+				max-width: 45px;
+			}
+
+			h3, h4 {
+				margin: 0;
+			}
+
+			p {
+				text-align: start;
+				font-size: small;
+			}
+
+			.date {
+				text-align: center;
+				font-size: x-small;
+				color: #a9aab2;
+				position: absolute;
+				bottom: 0;
+				left: 0;
+				right: 0;
+				margin-inline: auto;
+				width: fit-content;
+			}
+
+			&:hover {
+				transform: translateY(-5px);
+			}
+
+		}
+	}
+
+
+}
