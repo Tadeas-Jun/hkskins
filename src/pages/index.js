@@ -53,7 +53,7 @@ const IndexPage = ({data}) => {
       <h2>Skins</h2>
       <p>At the moment, the repository records <b>{knightSkins.length} skins</b> for the Knight and other sprites in the game.</p>
       <p>If you know of a skin that is not on this list, please request it via <a href="https://github.com/Tadeas-Jun/hkskins/discussions/new?category=ideas" target='_blank'>GitHub Discussions</a> or by contacting me directly.</p>
-      <p>The entire list (.zip file containing a directory for each skin, each including a metadata.json file and the preview .png file) can be downloaded <a href="/skins.zip">here</a>. Skins that don't include the Knight are currently not included in this archive, but are planned to be added later.</p>
+      <p>The entire list (.zip file containing a directory for each skin, each including a metadata.json file and the preview.png file) can be downloaded <a href="/skins.zip">here</a>. Skins that don't include the Knight are currently not included in this archive, but are planned to be added later.</p>
 
       <div className="search">
         <input type="search" placeholder="Search skins by name or author" onChange={handleSearchChange} />
@@ -67,7 +67,14 @@ const IndexPage = ({data}) => {
 
 export default IndexPage;
 
-export const Head = () => <title>HKSkins</title>
+export const Head = () => {
+  return (
+    <>
+      <title>HKSkins</title>
+      <script defer src="https://umami.tadeasjun.com/script.js" data-website-id="8234637c-736d-4090-bf13-43d84fb3ac5b"></script>
+    </>
+  )
+}
 
 export const knightQuery = graphql`
   query KnightSkins {
