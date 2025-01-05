@@ -1,3 +1,5 @@
+@use  './mixins' as *;
+
 @font-face {
 	font-family: 'Roboto';
 	font-weight: 400;
@@ -5,7 +7,7 @@
 	font-style: normal;
 	font-named-instance: 'Regular';
 	src: url(/fonts/Roboto/Roboto.ttf) format("truetype");
-  }
+}
 
 $background-color: #fafbf6;
 $text-color: #565a75;
@@ -81,6 +83,25 @@ html {
 			transition: 0.5s;
 			position: relative;
 
+			.skin-link {
+				max-width: 1.5em;
+				text-align: end;
+				cursor: pointer;
+				padding: 5px;
+				position: absolute;
+				right: 10px;
+
+				@include xl {
+					visibility: hidden;
+					opacity: 0;
+					transition: opacity 0.5s;
+				}
+
+				&:active {
+					color: #ff652f;
+				}
+			}
+
 			img {
 				margin: 15px;
 				max-width: 45px;
@@ -109,9 +130,23 @@ html {
 
 			&:hover {
 				transform: translateY(-5px);
+
+				@include xl {
+					.skin-link {
+						visibility: visible;
+						opacity: 100;
+					}
+				}
 			}
 
 		}
+	}
+
+	p.copyright {
+		font-size: x-small;
+		color: #a9aab2;
+		text-align: center;
+		margin-top: 50px;
 	}
 
 

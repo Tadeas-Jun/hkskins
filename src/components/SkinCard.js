@@ -1,13 +1,32 @@
 import PropTypes from 'prop-types';
 import React from "react";
 
+import { IconContext } from "react-icons";
+import { BsLink45Deg } from "react-icons/bs";
+
 const SkinCard = props => {
 
 	const urlRegex = RegExp(/[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_\+.~#?&\/\/=]*)/i);
 	const hasSourceLink = urlRegex.test(props.source);
 
+	const nameToId = (name, author) => {
+		name = name.replaceAll(" ", "-").toLowerCase();
+		author = author.replaceAll(" ", "-").toLowerCase();
+		const id = `${name}-by-${author}`;
+		return id;
+	};
+
+	const copyLink = () => {
+		navigator.clipboard.writeText(`${window.location.origin}/#${nameToId(props.name, props.author)}`);
+	};
+
 	return (
-		<div className="skin-card">
+		<div className="skin-card" id={nameToId(props.name, props.author)}>
+			<IconContext.Provider value={{ size: "1.5em" }}>
+				<div>
+					<div className='skin-link' title="Copy link" onClick={copyLink}><BsLink45Deg/></div>
+				</div>
+			</IconContext.Provider>
 			<img src={ props.image } />
 			<div className="text-container">
 				<h3>{hasSourceLink ? <a href={props.source} target='_blank'>{props.name}</a> : props.name}</h3>

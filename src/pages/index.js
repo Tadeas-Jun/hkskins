@@ -61,6 +61,7 @@ const IndexPage = ({data}) => {
       <div id="knight-skins">
         <SkinList filteredSkins={filteredSkins} />
       </div>
+      <p className='copyright'>Copyright © 2024 - 2025 Tadeas Jun</p>
     </main>
   )
 }
