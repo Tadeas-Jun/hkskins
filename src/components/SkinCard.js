@@ -6,7 +6,7 @@ import { BsLink45Deg } from "react-icons/bs";
 
 const SkinCard = props => {
 
-	const urlRegex = RegExp(/[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_\+.~#?&\/\/=]*)/i);
+	const urlRegex = RegExp(/[-a-zA-Z0-9@:%._+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_+.~#?&//=]*)/i);
 	const hasSourceLink = urlRegex.test(props.source);
 
 	const nameToId = (name, author) => {
@@ -24,12 +24,12 @@ const SkinCard = props => {
 		<div className="skin-card" id={nameToId(props.name, props.author)}>
 			<IconContext.Provider value={{ size: "1.5em" }}>
 				<div>
-					<div className='skin-link' title="Copy link" onClick={copyLink}><BsLink45Deg/></div>
+					<button className='skin-link' title="Copy link" onClick={copyLink}><BsLink45Deg/></button>
 				</div>
 			</IconContext.Provider>
 			<img src={ props.image } />
 			<div className="text-container">
-				<h3>{hasSourceLink ? <a href={props.source} target='_blank'>{props.name}</a> : props.name}</h3>
+				<h3>{hasSourceLink ? <a href={props.source} data-umami-event="skin-click" data-umami-event-skin={nameToId(props.name, props.author)} target='_blank' rel="noreferrer" title='Download skin'>{props.name}</a> : props.name}</h3>
 				<h4>{props.author ? `by ${props.author}` : 'unknown author' }</h4>
 				<p>{ props.description }</p>
 				<p className='date'>Added on { props.dateAdded }</p>

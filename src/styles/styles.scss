@@ -85,20 +85,22 @@ html {
 
 			.skin-link {
 				max-width: 1.5em;
-				text-align: end;
+				aspect-ratio: 1;
+				text-align: center;
+				padding: 0;
+				margin: 5px;
 				cursor: pointer;
-				padding: 5px;
 				position: absolute;
 				right: 10px;
+				background-color: #00000000;
+				border: 0;
 
-				@include xl {
-					visibility: hidden;
-					opacity: 0;
-					transition: opacity 0.5s;
+				&:hover {
+					color: #ff652f;
 				}
 
 				&:active {
-					color: #ff652f;
+					color: $text-color;
 				}
 			}
 
@@ -130,13 +132,6 @@ html {
 
 			&:hover {
 				transform: translateY(-5px);
-
-				@include xl {
-					.skin-link {
-						visibility: visible;
-						opacity: 100;
-					}
-				}
 			}
 
 		}
