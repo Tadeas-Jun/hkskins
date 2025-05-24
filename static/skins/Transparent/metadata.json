@@ -1,6 +1,8 @@
 {
   "name": "Transparent",
   "author": "LichOne#5951",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "HUD, Knight, OrbFull, Sprint, VoidSpells, VS, Wraiths",
   "source": "https://drive.google.com/file/d/1IdWY69BPNfiS-B-YI7W8lb2Etbbq80yh",
   "dateAdded": "2024-12-19"

@@ -1,6 +1,8 @@
 {
   "name": "Lightseed Knight (0.6)",
   "author": "XH-Saturn",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "DungRecharge, Knight, Quirrel, Sprint, VoidSpells, VS, Wraiths",
   "source": "https://skins.hk-modding.org/share/lifeseedbyxh-saturn",
   "dateAdded": "2024-12-19"

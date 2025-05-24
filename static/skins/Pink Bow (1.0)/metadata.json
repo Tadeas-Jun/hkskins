@@ -1,6 +1,8 @@
 {
   "name": "Pink Bow (1.0)",
   "author": "GingkoX",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "Hatchling, HUD, Knight,  OrbFull, Sprint, VoidSpells, VS, Wraiths",
   "source": "https://drive.google.com/drive/folders/1BIIdjEtLGdok2QQ93MGxH15EoiwVX6TD",
   "dateAdded": "2024-12-13"

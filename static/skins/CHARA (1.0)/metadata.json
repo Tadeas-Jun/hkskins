@@ -1,6 +1,8 @@
 {
   "name": "CHARA (1.0)",
   "author": "the dog next door",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "HUD, Knight, OrbFull, Sprint, Wraiths",
   "source": "https://drive.google.com/drive/folders/1-_5CDehgVebV9zIxPasSnWD18zjZbxYY",
   "dateAdded": "2024-11-18"

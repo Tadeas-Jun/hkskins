@@ -1,6 +1,8 @@
 {
   "name": "Butterfly",
   "author": "薇洛薇洛薇",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "HUD, Knight, OrbFull, VoidSpells",
   "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/943872407180046497",
   "dateAdded": "2024-11-18"

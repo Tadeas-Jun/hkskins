@@ -1,6 +1,8 @@
 {
   "name": "Angel Knight (v1.2)",
   "author": "Akivaq",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "All Charms, DoubleFeather, DreamArrival, Fluke, Geo, Hatchling, HitPt, HUD, Knight, Leak, Liquid, OrbFull, Quirrel, Shade, ShadeOrb, ShadowDashBlobs, Shield, Shriek, Sprint, Unn, VoidSpells, VS, Weaver, Wings, Wraiths",
   "source": "https://drive.google.com/file/d/1-ZbWeEcUjkd1lHV2TBgRLIw-ZQr4-2uc/view?usp=drive_link",
   "dateAdded": "2024-11-18"

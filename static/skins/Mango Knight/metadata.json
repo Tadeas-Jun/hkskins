@@ -1,6 +1,8 @@
 {
   "name": "Mango Knight",
   "author": "Mango Puppy",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "Birthplace, Cinematics, Cloak, Compass, DreamArrival, Dreamnail, Hornet, HUD, Knight, Liquid, OrbFull, Quirrel, Shade, Shriek, Spell Effects, Sprint, Unn, Webbed, Wings, Deepnest_32, GG_Nosk, Room_Bretta",
   "source": "https://ko-fi.com/s/571b258d00",
   "dateAdded": "2024-12-19"

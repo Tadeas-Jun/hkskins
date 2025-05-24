@@ -1,6 +1,8 @@
 {
   "name": "Mimikyu (v2.0)",
   "author": "Failed Vessel",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "Baldur, Beam, Birthplace, Most Charms, Cloak, Compass, DoubleJFeather, DreamArrival, Dreamnail, DungRecharge, Fluke, Geo, Grimm Hatchling, HitPt, Hornet, HUD, Knight, Leak, Liquid, OrbFull, QOrbs, QOrbs2, Quirrel, ScrOrbs, ScrOrbs2, SDCrystalBurst, Shade, ShadeOrb, ShadowDashBlobs, Shield, Sprint, Unn, VoidSpells, VS, Weaver, Webbed, White Wave Lone, Wings, Wraiths] [Inventory: Cloak_1, Cloak_2, CRHeart, CSlash, DJump, Slash, Fireball_1, Fireball_2, Focus, GSlash, Lantern, Nail_1, Nail_2, Nail_3, Nail_4, Nail_5, Quake_1, Quake_2] [Swaps: HPBar, Inventory, Abyss_16, Abyss_19, Deepnest_32, Deepnest_Spider_Town, DontDestroyOnLoad, Dream_Final_Boss, Fungus3_30, GG_Collector, GG_Grimm_Nightmare, GG_Nosk, GG_Nosk_V, GG_Radiance, GG_Watcher_Knights, GG_Workshop, Global, Inventory, Menu_Title, Opening_Sequence, Resting Grounds_08, Room_Bretta, Room_Colosseum_01, Room_Colosseum_Bronze, Room_Colosseum_Gold, Room_Colosseum_Silver, Room_Final_Boss_Atrium, Ruins_Bathhouse, Ruins2_11_Boss, Town, Tutorial_01, Waterways_15",
   "source": "https://drive.google.com/drive/folders/1BnKoDd3K-cdXWFKwglyxQ-mgiS73dwMO",
   "dateAdded": "2024-12-07"

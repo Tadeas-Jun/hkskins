@@ -1,6 +1,8 @@
 {
   "name": "Anomaly Beta",
   "author": "燚之虚",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "HUD, Knight, OrbFull(x3), Sprint, VoidSpells, VS",
   "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/944480872223105034",
   "dateAdded": "2024-11-18"

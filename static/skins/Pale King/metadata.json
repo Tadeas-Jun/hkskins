@@ -1,6 +1,8 @@
 {
   "name": "Pale King",
   "author": "Methyl Palladium (?)",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "Knight, Sprint",
   "source": "https://drive.google.com/file/d/14O3IzFw2V0UaS7UL8W_1Q3FCrKvyqvjL/view",
   "dateAdded": "2024-12-19"

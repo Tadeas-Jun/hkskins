@@ -1,6 +1,8 @@
 {
   "name": "Cactus Knight",
   "author": "Carlos Weao",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "Hatchling, Knight, OrbFull, VoidSpells",
   "source": "https://gamejolt.com/p/i-create-a-mod-of-cactus-haha-p8ypeppm",
   "dateAdded": "2024-11-18"

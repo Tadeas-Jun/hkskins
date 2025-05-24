@@ -1,6 +1,8 @@
 {
   "name": "Trans Knight",
   "author": "Akivaq",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "Knight",
   "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/802154765937016843",
   "dateAdded": "2024-12-19"

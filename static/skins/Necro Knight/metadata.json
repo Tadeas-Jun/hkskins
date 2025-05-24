@@ -1,6 +1,8 @@
 {
   "name": "Necro Knight",
   "author": "HKRecruiter5*",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "Baldur, Beam, Birthplace, BrummShield, Some Charms, Cloak, Compass, DDeathpt, DeathAsh, DeathNail, DoubleJFeather, DreamArrival, Dreamnail, Fluke, Geo, Grimm, Hatchling, HitPt, Hornet, HUD, Knight, Leak, Liquid, OrbFull, OrbIcon, QOrbs2, QOrbs, Quirrel, SaveHud, ScrOrbs2, ScrOrbs, SDCrystalBurst, ShadowDashBlobs, Shield, Shriek, Sprint, Unn, VoidSpells, VS, Weaver, Webbed, Wings, Wraiths, GG_Nosk, GG_Radiance, Room_Colosseum_01",
   "source": "https://drive.google.com/drive/folders/1XbY-zVKwr7Fdvhub01l92br1UxxwLW3g",
   "dateAdded": "2025-02-05"

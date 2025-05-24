@@ -1,6 +1,8 @@
 {
   "name": "Sans Knight",
   "author": "MT",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "Grimm, Hatchling, HUD, Knight, OrbFull, Spring, VoidSpells, VS, Wraiths",
   "source": "https://drive.google.com/drive/folders/1OXzg_ZK5r6mGm4djwLr4-R2cW8VMs1qw",
   "dateAdded": "2024-12-18"

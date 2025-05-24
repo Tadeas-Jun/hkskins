@@ -1,6 +1,8 @@
 {
   "name": "pk skin (v1.0)",
   "author": "DeadBlack1",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "Baldur, Birthplace, Some Charms, Cloak, DoubleJFeather, DreamArrival, Dreamnail, DungRecharge, Fluke, Geo, Hatchling, Hornet, HUD (x3), Knight, OrbFull, Quirrel, SDCrystalBurst, Shriek, Sprint, Unn, VoidSpells (x2), VS (x2), Weaver, Webbed, Wings, Wraiths, Inventory, GG_Nosk, Room_Bretta",
   "source": "https://drive.google.com/file/d/1Mf4wHuQQcUcoUmQm50Zno2WSOhYsGpDk/view",
   "dateAdded": "2024-12-16"

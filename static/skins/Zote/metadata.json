@@ -1,6 +1,8 @@
 {
   "name": "Zote",
   "author": "DFTz",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "Knight, Sprint",
   "source": "https://drive.google.com/file/d/14g7G7ZQipI_8AN9f8-qZ08tC-taB5sk-/view",
   "dateAdded": "2024-12-19"

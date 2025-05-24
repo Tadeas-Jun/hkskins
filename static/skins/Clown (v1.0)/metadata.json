@@ -1,6 +1,8 @@
 {
   "name": "Clown (v1.0)",
   "author": ".stufa.",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "Birthplace, Cloak, Compass, DreamArrival, Dreamnail, Grimm, Hatchling, Hornet, Hud, Knight, OrbFull, Quirrel, Shade, Shriek, Sprint, Unn, Weaver, Webbed",
   "source": "https://discord.com/channels/283467363729408000/610754780461006848/1079834744918921309",
   "dateAdded": "2024-12-19"

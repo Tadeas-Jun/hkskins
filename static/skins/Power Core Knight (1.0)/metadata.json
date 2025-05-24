@@ -1,6 +1,8 @@
 {
   "name": "Power Core Knight (1.0)",
   "author": "冷酷无情玉米片",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "Hatchling, HUD, Knight, Sprint, VoidSpells, VS, Wraiths",
   "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/963792665365852250",
   "dateAdded": "2024-12-16"

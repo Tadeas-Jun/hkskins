@@ -1,6 +1,8 @@
 {
   "name": "Grimm Knight",
   "author": "Mola",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "HUD, Knight, OrbFull, Sprint, VoidSpells, VS, Wraiths",
   "source": "https://drive.google.com/file/d/1lRKnaiCgz3Qrx3-w7ikH6Q_XzreFlyI0/view",
   "dateAdded": "2024-11-20"

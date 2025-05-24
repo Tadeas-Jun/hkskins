@@ -1,6 +1,8 @@
 {
   "name": "Schy Tribute",
   "author": "Griftz",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "Birthplace, Charm_39, Cloak, DreamArrival, Dreamnail, Geo, Grimm, Hatchling, HitPt, Hornet, HUD, Knight, Leak, Liquid, OrbFull, QOrbs, QOrbs2, Quirrel, ScrOrbs, ScrOrbs2, SDCrystalBurst, ShadowDashBlobs, Shriek, Sprint, Unn, VoidSpells, VS, Weaver, Webbed, Wings, Wraiths",
   "source": "https://drive.google.com/drive/folders/162g0dKxrG_gZQIyUuayq5z2O2dGeCFdc",
   "dateAdded": "2024-12-18"

@@ -1,6 +1,8 @@
 {
   "name": "Craig Knight",
   "author": "Craig",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "HUD, Knight, Sprint",
   "source": "https://drive.google.com/file/d/1tmrY8ESKNRXyKhV93Uat2JCrvGjpwYby/view?usp=drive_link",
   "dateAdded": "2024-11-20"

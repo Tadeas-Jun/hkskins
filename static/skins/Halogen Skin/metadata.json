@@ -1,6 +1,8 @@
 {
   "name": "Halogen Skin",
   "author": "Kookycookies",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "Geo, Grimm, Hatchling, HUD, Knight, OrbFull, Sprint, Unn, VoidSpells, VS, Wraiths",
   "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/948094433688191017",
   "dateAdded": "2024-11-20"

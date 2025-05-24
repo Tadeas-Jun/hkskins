@@ -1,6 +1,8 @@
 {
   "name": "Mustard Knight",
   "author": "",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "Knight, Sprint, VoidSpells, VS, Wraiths",
   "source": "https://drive.google.com/file/d/1MGjEqSGb59P1aqND_5axWNe-RpuhXjSx/view",
   "dateAdded": "2024-12-07"

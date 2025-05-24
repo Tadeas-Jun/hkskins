@@ -1,6 +1,8 @@
 {
   "name": "Nox Knight (ver1.01)",
   "author": "小祸星-翼",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "Baldur, Birthplace, Cloak, DreamArrival, Dreamnail, Fluke, Grimm, Hatchling, Hornet, HUD, Knight, OrbFull, Quirrel, Shield, Shriek, Sprint, Unn, VoidSpells, VS, Weaver, Webbed, Wings, Wraiths",
   "source": "https://drive.google.com/file/d/1uUDYd_mvWIuP3fToCV4yIaBtFUsSK8ET/view",
   "dateAdded": "2024-12-13"

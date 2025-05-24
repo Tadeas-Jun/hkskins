@@ -1,6 +1,8 @@
 {
   "name": "Expressive Knight",
   "author": "tigerfollery",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "Birthplace, Hornet, HUD, Knight, OrbFull, Quirrel_Flower, Quirrel, Unn, Webbed, The Hollow Knight, Broken Vessel",
   "source": "https://drive.google.com/file/d/1eujvzeyaMzt9cPzjkqW4scir4BAzBuOc/edit",
   "dateAdded": "2024-12-19"

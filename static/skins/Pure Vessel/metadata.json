@@ -1,6 +1,8 @@
 {
   "name": "Pure Vessel",
   "author": "emray",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "Knight, Sprint",
   "source": "https://drive.google.com/file/d/1XkHRReQJxvVbaD4aT3_8S5prTS1l3z2t/view",
   "dateAdded": "2024-12-16"

@@ -1,6 +1,8 @@
 {
   "name": "Slugpup",
   "author": "fantastenby",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "Cloak, Compass, DreamArrival, Dreamnail, Hornet, Knight (5x), OrbFull, Quirrel, Shade, Shriek, Sprint (5x), Unn, Webbed, Wings",
   "source": "https://drive.google.com/drive/folders/1VNZlM43WCakchjsxz-cp-mEVuZOV67xq",
   "dateAdded": "2024-12-19"

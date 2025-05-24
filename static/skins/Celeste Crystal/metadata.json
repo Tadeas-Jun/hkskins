@@ -1,6 +1,8 @@
 {
   "name": "Celeste Crystal",
   "author": "LichOne#5951",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "HUD, Knight, OrbFull, Sprint, VoidSpells, VS, Wraiths",
   "source": "https://drive.google.com/drive/folders/1uyq71utzsO3SWdGtJySj3BuBOo2aL6F2",
   "dateAdded": "2024-11-18"

@@ -1,6 +1,8 @@
 {
   "name": "Little Horn",
   "author": "碳烤番茄鸡肉卷",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "HUD, Knight, Wings",
   "source": "https://drive.google.com/drive/folders/1pBRWp3W6o9H-PBk4fiCk6zL5Cc3mMpeF",
   "dateAdded": "2024-12-07"

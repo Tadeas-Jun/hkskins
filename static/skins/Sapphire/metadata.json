@@ -1,6 +1,8 @@
 {
   "name": "Sapphire",
   "author": "LOATR",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Geo, Hatchling, Hornet, HUD, Knight, OrbFull, Quirrel, Shield, Shriek, SkullLeft, SkullRight, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
   "source": "https://drive.google.com/file/d/1C0JfXBy9PxaqXIZIOCJlRUANFn1XS8AR/view",
   "dateAdded": "2024-12-18"

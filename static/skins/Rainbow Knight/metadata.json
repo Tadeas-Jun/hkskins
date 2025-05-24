@@ -1,6 +1,8 @@
 {
   "name": "Rainbow Knight",
   "author": "Shiga",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "HUD, Knight, OrbFull, Sprint, Wraiths",
   "source": "https://drive.google.com/file/d/1SCaNmXqxSHxJpdU1tgV_pT8T-3Kqmst4/view",
   "dateAdded": "2024-12-16"

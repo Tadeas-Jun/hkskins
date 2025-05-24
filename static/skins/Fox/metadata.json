@@ -1,6 +1,8 @@
 {
   "name": "Fox",
   "author": "",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Geo, Hornet, HUD, Knight (2x), OrbFull, Quirrel, Shriek, Sprint, VoidSpells (2x), Webbed, Wings, Wraiths (2x)",
   "source": "https://skins.hk-modding.org/share/foxbyunknown",
   "dateAdded": "2024-12-19"

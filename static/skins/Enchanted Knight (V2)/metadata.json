@@ -1,6 +1,8 @@
 {
   "name": "Enchanted Knight (V2)",
   "author": "Electric Van",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "Baldur, Birthplace, BrummShield, DDeathpt, DeathAsh, DreamArrival, Dreamnail, Fluke, Geo, Grimm, Hatchling, HitPit, Hornet, Knight, Liquid, OrbFull, Quirrel, SDCrystalBurst, Shade, ShadeOrb, ShadowDashBlobs, Shield, VoidSpells, VS, Weaver, Webbed, Wings, Wraiths, ArenaBackgrounds, All Charms, Some Inventory, HUD",
   "source": "https://discord.com/channels/283467363729408000/610754780461006848/1353802995069882570",
   "dateAdded": "2025-03-27"

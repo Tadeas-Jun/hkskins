@@ -1,6 +1,8 @@
 {
   "name": "Mutant",
   "author": "我在风中凌乱啊",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "All Charms, DreamArrival, Fluke, Hatchling, HitPt, HUD, Knight, Leak, Liquid, OrbFull, QOrbs, QOrbs2, ScrOrbs, ScrOrbs2, SDCrystalBurst, ShadeOrb, ShadowDashBlobs, Shield, Sprint, Unn, VoidSpells, VS, Weaver, Wraiths",
   "source": "https://discord.com/channels/283467363729408000/610754780461006848/1341053672439681056",
   "dateAdded": "2025-02-24"

@@ -1,6 +1,8 @@
 {
   "name": "Summer",
   "author": "树滚",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "DreamArrival, Geo, Hatchling, HUD, Knight, OrbFull, Quirrel, Shield, Shriek, Sprint, VoidSpells, VS, Webbed, Wings, Wraiths",
   "source": "https://drive.google.com/file/d/1HdxCnP0xquYKV54l6sx0ebPYl9uIUcbX/view",
   "dateAdded": "2024-12-19"

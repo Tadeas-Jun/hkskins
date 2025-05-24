@@ -1,6 +1,8 @@
 {
   "name": "Peach Knight",
   "author": "tabby",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "Dreamnail, Fluke, Grimm, Hatchling, HUD, Knight, OrbFull, Shield, Sprint, Unn, VoidSpells, VS, Wraiths",
   "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/980780850293645332",
   "dateAdded": "2024-12-13"

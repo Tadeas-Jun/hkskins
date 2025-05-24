@@ -1,6 +1,8 @@
 {
   "name": "Valentino (2.0)",
   "author": "Elliott255",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "Cloak, DeathPt, DoubleJFeather, DreamArrival, Dreamnail, DungRecharge, Hatchling, HitPt, HUD, Knight, Leak, OrbFull, QOrbs2, QOrbs, Quirrel, ScrOrbs2, ScrOrbs, SDCrystalBurst, ShadeOrb, ShadowDashBlobs, Shriek, Sprint, Unn, VoidSpells, Weaver, Wings, Wraiths, Room_Bretta",
   "source": "https://discord.com/channels/283467363729408000/610754780461006848/1324760789000781844",
   "dateAdded": "2025-01-05"

@@ -1,6 +1,8 @@
 {
   "name": "Uninfected Vessel",
   "author": "羽灵翼",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Hatchling, Hornet, Knight, Quirrel, Shriek, SkullLeft, SkullRight, Sprint, Unn, Webbed, Wings",
   "source": "https://drive.google.com/drive/folders/1pHpG-EfWbzrGz63zR_RPWhvOyx2NroEt",
   "dateAdded": "2024-12-19"

@@ -13,7 +13,7 @@ function SkinList({ filteredSkins }) {
     .map(skin => <SkinCard key={getKey(skin)} image={skin.imagePath} name={skin.metadata.name} source={skin.metadata.source} author={skin.metadata.author} description={skin.metadata.desc} dateAdded={skin.metadata.dateAdded} />);
 
   return (
-    <div id='knight-skins'>
+    <div id='skin-list'>
       {filtered}
     </div>
   );

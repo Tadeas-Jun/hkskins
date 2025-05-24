@@ -1,6 +1,8 @@
 {
   "name": "Neko-Arc",
   "author": "sarcophagus sneak",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "Knight, Sprint",
   "source": "https://drive.google.com/file/d/1yXq1hGdEbBaAzKzzj_Rz5w2irAIgcPeN/view",
   "dateAdded": "2024-12-07"

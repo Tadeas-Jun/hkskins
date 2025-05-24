@@ -1,6 +1,8 @@
 {
   "name": "Winter",
   "author": "树滚",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "Beam, Compass, DoubleJFeather, DreamArrival, DungRecharge, Geo, HitPt, HUD, Knight, Leak, Liquid, OrbFull, QOrbs (2x), ScrOrbs (2x), SDCrystalBurst, ShadowDashBlobs, Sprint, VoidSpells, VS, Wraiths",
   "source": "https://skins.hk-modding.org/share/Winter",
   "dateAdded": "2024-12-19"

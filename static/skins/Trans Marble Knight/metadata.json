@@ -1,6 +1,8 @@
 {
   "name": "Trans Marble Knight",
   "author": "LichOne#5951",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "Knight, Sprint",
   "source": "https://drive.google.com/drive/folders/114vECv1lA5JfZTGSmPwgc8sWzBRlL_IU",
   "dateAdded": "2024-12-19"

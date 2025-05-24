@@ -1,6 +1,8 @@
 {
   "name": "Weary Knight",
   "author": "Mickely",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "Knight, Sprint",
   "source": "https://drive.google.com/file/d/1_x5Gy74H_7HH1F8Fy_RhmxKO2Gs5e5Dk/view",
   "dateAdded": "2024-12-19"

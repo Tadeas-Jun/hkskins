@@ -1,6 +1,8 @@
 {
   "name": "Little Hornet (Classic)",
   "author": "InkScarlet",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "Geo, Hatchling, Knight, Sprint, VoidSpells, VS, Wraiths",
   "source": "https://drive.google.com/drive/folders/1ewrzU9bNODV-9u5uvlbCDieArLY4i2Z_",
   "dateAdded": "2024-12-07"

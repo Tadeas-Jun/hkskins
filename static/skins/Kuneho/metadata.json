@@ -1,6 +1,8 @@
 {
   "name": "Kuneho",
   "author": "SAD-ist",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Hatchling, Hornet, HUD, Knight, OrbFull, Shade, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
   "source": "https://drive.google.com/drive/folders/1DBPZ2BDVGsjfdRk0wdaundutI3ulgMSm",
   "dateAdded": "2024-11-20"

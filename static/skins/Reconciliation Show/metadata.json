@@ -1,6 +1,8 @@
 {
   "name": "Reconciliation Show",
   "author": "是菜鸡一第一制的",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "Geo, Hatchling, HUD, Knight, OrbFull, Sprint, VoidSpells, Weaver",
   "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/944475945841074196",
   "dateAdded": "2024-12-16"

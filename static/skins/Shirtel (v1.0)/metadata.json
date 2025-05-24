@@ -1,6 +1,8 @@
 {
   "name": "Shirtel (v1.0)",
   "author": "辰鸽鸽鸽咕",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "Charm_6, Knight, VoidSpells",
   "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/1017857041005551686",
   "dateAdded": "2024-12-18"

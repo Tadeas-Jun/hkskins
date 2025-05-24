@@ -1,6 +1,8 @@
 {
   "name": "Regal Knight",
   "author": "Knightmere",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "Knight, OrbFull, Sprint,VoidSpells, VS, Wraiths",
   "source": "https://drive.google.com/file/d/1fwYubEWaqQmtgvSmoiLtMgSPjIVJsBHf/view",
   "dateAdded": "2024-12-16"

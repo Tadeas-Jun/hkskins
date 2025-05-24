@@ -1,6 +1,8 @@
 {
   "name": "Xero Knight",
   "author": "Flameshadow",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "Birthplace, Cloak, Compass, DreamArrival, Dreamnail, Hatchling, HitPt, Hornet, HUD, Knight, Quirrel, Shade, Shriek, Sprint, Unn, VoidSpells, VS, Weaver, Webbed, Wings, Wraiths, Deepnest_32, GG_Nosk, GG_Nosk_V, GG_Workshop, Room_Bretta, Room_Colosseum_01, Room_Final_Boss_Atrium, Tutorial_01, Waterways_15",
   "source": "https://drive.google.com/drive/folders/1aC_2yAsNfjotmwpRvP9_Z7jiOFQNjjFo",
   "dateAdded": "2024-12-19"

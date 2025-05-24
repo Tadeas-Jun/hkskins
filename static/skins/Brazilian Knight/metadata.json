@@ -1,6 +1,8 @@
 {
   "name": "Brazilian Knight",
   "author": "",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Hatchling, Hornet, HUD, Knight, KnightDreamGate,OrbFull, Quirrel, Shriek, SkullLeft, SkullRight, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
   "source": "https://drive.google.com/file/d/1Rslb-dTY4zkmrtnLVv6FJ6qF9YSZSo8W/view?usp=drive_link",
   "dateAdded": "2024-11-18"

@@ -1,6 +1,8 @@
 {
   "name": "Enchanted Knight (V1)",
   "author": "Electric Van",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "BrummShield, DeathAsh, DreamArrival, Dreamnail, Geo, Hatchling, Knight, Liquid, OrbFull, SDCrystalBurst, Shade, ShadeOrb, ShadowDashBlobs, Sprint, VoidSpells, VS, Weaver, Wings, Wraiths, ArenaBackgrounds, All Charms, Some Inventory, HUD",
   "source": "https://discord.com/channels/283467363729408000/610754780461006848/1353481349775884319",
   "dateAdded": "2025-03-27"

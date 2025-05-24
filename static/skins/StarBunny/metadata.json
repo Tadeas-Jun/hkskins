@@ -1,6 +1,8 @@
 {
   "name": "StarBunny",
   "author": "甜茶奶芙",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "Fluke, Geo, Grimm (x2), Hatchling, HUD, Knight, OrbFull, Sprint, VoidSpells, VS, Wraiths",
   "source": "https://drive.google.com/drive/folders/1435pXkFxNHWr4L8TFfBmZMfeKolje-17",
   "dateAdded": "2024-12-19"

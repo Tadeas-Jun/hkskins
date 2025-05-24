@@ -1,6 +1,8 @@
 {
   "name": "Blood Knight",
   "author": "Akivaq",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "Some Charms, Cloak, DreamArrival, Dreamnail, HUD, Knight, OrbFull, Shriek, Sprint, Unn, VoidSpells, Weaver, Wings",
   "source": "https://drive.google.com/file/d/1Sw4sAh6x_U9FOGK9E3MaMB86ePbtmDxW/view?usp=drive_link",
   "dateAdded": "2024-11-18"

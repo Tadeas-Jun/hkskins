@@ -1,6 +1,8 @@
 {
   "name": "OWO Knight",
   "author": "MTmerm",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "Birthplace, Cloak, DreamArrival, Dreamnail, Hatchling, Hornet, Knight, OrbFull, Quirrel, Shade, Shriek, Sprint, Unn, VoidSpells, VS, Webbed, Wings, Wraiths",
   "source": "https://drive.google.com/file/d/1bKfjR7srU8iwzVI4niNld2AfChXDxTmZ/view",
   "dateAdded": "2024-12-13"

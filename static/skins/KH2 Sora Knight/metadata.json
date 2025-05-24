@@ -1,6 +1,8 @@
 {
   "name": "KH2 Sora Knight",
   "author": "Maximal Nightwing",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "Baldur, Birthplace, Cloak, DreamArrival, Dreamnail, Fluke, Geo, Grimm, Hatchling, Hornet, HUD, Knight, OrbFull, Quirrel, Shield, Shriek, Sprint, Unn, VoidSpells, VS, Weaver, Webbed, Wings, Wraiths",
   "source": "https://drive.google.com/file/d/1urGPRwyxJOcBJU9VMpgo7gV1Ntx9Vkb1/view?usp=drive_link",
   "dateAdded": "2024-11-20"

@@ -1,6 +1,8 @@
 {
   "name": "Thunder Knight",
   "author": "HooKnows",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "DreamArrival, HUD, Knight, OrbFull, Sprint, Unn, VoidSpells, VS, Wraiths",
   "source": "https://drive.google.com/file/d/19N67lbN_Di0VtDnfA6cINd6xq7ahblkF/view",
   "dateAdded": "2024-12-19"

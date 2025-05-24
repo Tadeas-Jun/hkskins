@@ -27,7 +27,9 @@ const SkinCard = props => {
 					<button className='skin-link' title="Copy link" onClick={copyLink}><BsLink45Deg/></button>
 				</div>
 			</IconContext.Provider>
-			<img src={ props.image } />
+			<div className='preview-container'>
+				<img src={ props.image } />
+			</div>
 			<div className="text-container">
 				<h3>{hasSourceLink ? <a href={props.source} data-umami-event="skin-click" data-umami-event-skin={nameToId(props.name, props.author)} target='_blank' rel="noreferrer" title='Download skin'>{props.name}</a> : props.name}</h3>
 				<h4>{props.author ? `by ${props.author}` : 'unknown author' }</h4>

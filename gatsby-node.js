@@ -25,7 +25,7 @@ exports.sourceNodes = ({ actions, createNodeId, createContentDigest }) => {
           imagePath: `/skins/${encodeURIComponent(subDir)}/preview.png`, // URL-encoded path
           metadata,
           internal: {
-            type: "KnightSkin",
+            type: "Skin",
             contentDigest: createContentDigest({ subDir, knightImagePath, metadata }),
           },
         };

@@ -1,6 +1,8 @@
 {
   "name": "Illyia Knight",
   "author": "Gnollbold",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "Beam, Birthplace, Cinematics, Cloak, Compass, DoubleJFeather, DreamArrival, DreamNail, Hornet, HUD, Knight, Liquid, OrbFull, QOrbs, Quirrel, ScrOrbs, ShadowDashBlobs, Shriek, Sprint, Unn, Voidspells, VS, Webbed, Wings, Wraiths",
   "source": "https://drive.google.com/drive/folders/1SEveE7_AVwHKrZLrimnJpSbiAdijlAG-",
   "dateAdded": "2024-12-19"

@@ -1,6 +1,8 @@
 {
   "name": "pk skin (v1.1)",
   "author": "DeadBlack1",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "AreaBackgrounds, Baldur, Birthplace, Some Charms, Cloak, DoubleJFeather, DreamArrival, Dreamnail, DungRecharge, Fluke, Geo, Grimm, Hatchling, HitPt, Hornet, HUD, Inventory, Knight, Leak, OrbFull, QOrbs (2x), Quirrel, ScrOrbs (2x), SDCrystalBurst, ShadeOrb, Shade, ShadowDashBlobs, Shriek, Sprint, Unn, VoidSpells, VS, Weaver, Webbed, Wings, Wraiths, Dream_Final_Boss, GG_Atrium, GG_Atrium_Roof, GG_Blue_Room, GG_Waterways, GG_Workshop, Room_Bretta, Room_Colosseum_01, Room_Queen, Tutorial_01, Waterways_15, HPBar, SaveHUD",
   "source": "https://drive.google.com/file/d/1iO5TGeJt4BtbiCh2zRWzAjCa_eyGH6XQ/view",
   "dateAdded": "2024-12-19"

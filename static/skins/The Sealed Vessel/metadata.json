@@ -1,6 +1,8 @@
 {
   "name": "The Sealed Vessel",
   "author": "",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "HUD, Knight, OrbFull, Sprint, Webbed",
   "source": "https://drive.google.com/drive/folders/10DKLm6x8bvktrCbdbLOsw7SlVWzNDs0F",
   "dateAdded": "2024-12-19"

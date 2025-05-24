@@ -45,27 +45,92 @@ html {
 		}
 	}
 
-	.search {
-		text-align: center;
+	.tabs {
+		display: flex;
+		flex-direction: row;
+		justify-content: center;
+		align-items: center;
+		gap: 10px;
 		margin-top: 50px;
 
-		input {
+		.tabRadio {
+
+			border: 2px $text-color solid;
+			padding: 5px 10px 5px 5px;
+			background-color: $background-color;
+			color: $text-color;
+			border-radius: 5px;
+			text-align: center;
+
+			display: flex;
+			align-items: center;
+			justify-content: start;
+			gap: 3px;
+
+			transition: 0.5s;
+
+			&.checked {
+				background-color: $text-color;
+				color: $background-color;
+			}
+
+			.icon {
+				width: 35px;
+				height: 35px;
+			}
+
+			span {
+				padding-top: 3px;
+			}
+
+			input[type="radio"] {
+				appearance: none;
+				background-color: #fff;
+				margin: 0;
+			}
+
+		}
+
+	}
+
+	.search {
+		text-align: center;
+		margin-top: 25px;
+
+		input[type="search"] {
 			width: 50%;
 			min-width: 250px;
 			height: 45px;
 			border: 2px solid $text-color;
 			border-radius: 5px;
 			padding: 8px 16px;
-			transition: 0.5s;
+			margin-bottom: 25px;
+		}
 
-			&:hover {
-				transform: translateY(-5px);
+		label.checkbox-label {
+
+			margin: 16px;
+
+			input[type="checkbox"] {
+				width: 16px;
+				height: 16px;
+				border: 2px solid $text-color;
+				border-radius: 5px;
+				padding: 8px 16px;
+				margin-right: 8px;
 			}
+
 		}
 
 	}
 
-	#knight-skins {
+	hr {
+		margin-top: 32px;
+		color: $text-color;
+		border-radius: 5px;
+	}
+
+	#skin-list {
 		margin-top: 25px;
 		display: flex;
 		flex-wrap: wrap;
@@ -104,9 +169,16 @@ html {
 				}
 			}
 
-			img {
-				margin: 15px;
-				max-width: 45px;
+			.preview-container {
+
+				height: 130px;
+
+				img {
+					margin: 15px;
+					max-height: 96px;
+					max-width: 120px;
+				}
+
 			}
 
 			h3, h4 {

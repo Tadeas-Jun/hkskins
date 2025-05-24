@@ -1,6 +1,8 @@
 {
   "name": "Pixel Knight (v2)",
   "author": "wowee",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "Baldur, Fluke, Grimm, Hatchling, HUD, Knight, OrbFull, Shield, Sprint, Unn, VoidSpells, VS, Weaver, Wraiths",
   "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/741892763410235432",
   "dateAdded": "2024-12-16"

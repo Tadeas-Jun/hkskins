@@ -1,6 +1,8 @@
 {
   "name": "VOD Knight",
   "author": "Roy",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "HUD, Knight, Orbfull, Sprint",
   "source": "https://discord.com/channels/283467363729408000/462200562620825600/985566148961640558",
   "dateAdded": "2024-12-19"

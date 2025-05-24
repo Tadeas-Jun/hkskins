@@ -1,6 +1,8 @@
 {
   "name": "Student Knight",
   "author": "KAdala",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "Some Charms, Fluke, Grimm, Hatchling, Knight, OrbFull, Sprint",
   "source": "https://drive.google.com/drive/folders/1UIPCdQV4GrPi21glbxbsTxVw2Pw2g_L0",
   "dateAdded": "2024-12-19"

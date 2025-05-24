@@ -1,6 +1,8 @@
 {
-  "name": "Default",
+  "name": "Default Knight",
   "author": "Team Cherry",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "Default skin",
   "source": "Hollow Knight (2017)",
   "dateAdded": "2024-11-18"

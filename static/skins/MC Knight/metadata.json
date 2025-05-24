@@ -1,6 +1,8 @@
 {
   "name": "MC Knight",
   "author": "龟鳖鼋鼍拉",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "Geo, Grimm, HUD, Knight, OrbFull",
   "source": "https://discordapp.com/channels/283467363729408000/610754780461006848/964399575911792640",
   "dateAdded": "2024-12-07"

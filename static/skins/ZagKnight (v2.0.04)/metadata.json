@@ -1,6 +1,8 @@
 {
   "name": "ZagKnight (v2.0.04)",
   "author": "artzfreak",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "Baldur, Birthplace, All Charms, Cloak, Compass, DoubleJFeather, DreamArrival, Dreamnail, DungRecharge, Fluke, Geo, Grimm, Hatchling, HitPt, Hornet, HUD, Knight, Leak, Liquid, OrbFull, QOrbs (2x), Quirrel, ScrOrbs (2x), SDCrystalBurs, Shade, ShadeOrb, ShadowDashBlobs, Shield, Shriek, Sprint, Unn, VoidSpells, VS, Weaver, Webbed, Wings, Wraiths",
   "source": "https://www.zagknight.com/download",
   "dateAdded": "2024-12-19"

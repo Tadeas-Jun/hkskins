@@ -1,6 +1,8 @@
 {
   "name": "Little Petals",
   "author": "清洁工BJF",
+  "game": "hollowKnight",
+  "type": "character",
   "desc": "Geo, Hatchling, HUD, Knight, OrbFull,Sprint, VoidSpells, VS, Wraiths",
   "source": "https://drive.google.com/drive/folders/1eKhh65h9z8APpTCdb1gn4rJ6M6Wyy7Jr",
   "dateAdded": "2024-12-07"
