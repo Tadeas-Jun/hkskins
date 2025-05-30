@@ -12,7 +12,6 @@ import TabRadio from '../components/TabRadio';
 const IndexPage = ({data}) => {
 
   const skins = data.allSkin.nodes;
-  console.log(skins)
 
   const [tab, setTab] = useState("hollowKnight");
   const handleTabChange = e => {
@@ -38,7 +37,6 @@ const IndexPage = ({data}) => {
   }
 
   const filterFunction = (skin) => {
-    console.log(skin.metadata);
 
     return (
       // Search term included in name or authors
@@ -111,7 +109,7 @@ const IndexPage = ({data}) => {
           </label>
           <label className='checkbox-label'>
             <input type="checkbox" checked={showOtherSkins} onChange={() => setShowOtherSkins(!showOtherSkins)} />
-            Non-{getCharacterName()} skins
+            Non&#8209;{getCharacterName()} skins
           </label>
         </div>
       </div>

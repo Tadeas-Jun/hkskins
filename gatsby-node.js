@@ -17,8 +17,6 @@ exports.sourceNodes = ({ actions, createNodeId, createContentDigest }) => {
       if (fs.existsSync(knightImagePath) && fs.existsSync(metadataPath)) {
         const metadata = JSON.parse(fs.readFileSync(metadataPath, "utf8"));
 
-		console.log(`Found valid subDir: ${subDir}`);
-
         const fileNode = {
           id: createNodeId(`knight-skin-${subDir}`),
           subDir,
