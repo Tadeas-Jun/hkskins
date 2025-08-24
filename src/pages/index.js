@@ -7,6 +7,7 @@ import SkinList from '../components/SkinList';
 import { IconContext } from "react-icons";
 import { BsGithub } from "react-icons/bs";
 import { BsEnvelopeHeart } from "react-icons/bs";
+import { BsRssFill } from "react-icons/bs";
 import TabRadio from '../components/TabRadio';
 
 const IndexPage = ({data}) => {
@@ -80,6 +81,7 @@ const IndexPage = ({data}) => {
         <h1>HKSkins</h1>
         <IconContext.Provider value={{ size: "2em" }}>
           <div id='icons'>
+            <a className="no-link" href="/rss.xml" title="RSS feed"><BsRssFill /></a>
             <a className="no-link" href="https://paypal.me/TadeasJun" title="Donate"><BsEnvelopeHeart /></a>
             <a className="no-link" href="https://github.com/Tadeas-Jun/hkskins" title="Source code"><BsGithub /></a>
           </div>
