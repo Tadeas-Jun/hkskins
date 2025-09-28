@@ -10,4 +10,3 @@ A [website](https://hkskins.art/) listing and showcasing skins for the game Holl
 Below is a list of features that might get added at some point in the future, in no particular order:
 - Link to Google Sheet with all the metadata
 - Public API for the skin list
-- Silksong skins 🤡
