@@ -91,6 +91,7 @@ const IndexPage = ({data}) => {
 
       <p>A repository of skins for the game Hollow Knight and its sequel, Silksong. Created and maintained by <span style={{ color: "#ff652f" }}>Tadeas Jun</span>. Read more about this project and its development on <a href="https://www.tadeasjun.com/blog/hollow-knight-skins/" target="_blank" rel="noreferrer">my blog</a>.</p>
       <p>If you use this website often, please consider helping to keep it running by supporting me <a href='https://ko-fi.com/tadeasjun' target='_blank' rel='noreferrer'>on Ko-fi</a>.</p>
+      <p>The website was last updated on <strong>2026-01-04</strong> (<em>v1.2.3</em>).</p>
 
       <h2>Installation & sources</h2>
       <p>The skins were collected from all around the internet. A special thanks goes to <a href="https://www.twitch.tv/colettemslp" target='_blank' rel="noreferrer">ColetteMSLP</a> for <a href="https://docs.google.com/document/d/1qKfOtOXpYormusD05I700P8d79E74R1bTb3MP4vum-E/" target='_blank' rel="noreferrer">her list</a>, and to the Hollow Knight Discord communities for spending countless hours tracking down skin files.</p>
@@ -102,7 +103,7 @@ const IndexPage = ({data}) => {
       <p>At the moment, the repository records <b>{skins.length} skins</b> for the Knight, Hornet, and other sprites in the games.</p>
       <p>If you know of a skin that is not on this list, please request it via <a href="https://github.com/Tadeas-Jun/hkskins/discussions/new?category=ideas" target='_blank' rel="noreferrer">GitHub Discussions</a> or by contacting me directly.</p>
       <p>If you are an artist who has created a skin that's not on the list, please feel free to e-mail me at <a href="mailto:contact@tadeasjun.com">contact@tadeasjun.com</a>, I would love to include your work here.</p>
-      <p>The entire list (.zip file containing a directory for each skin, each including a metadata.json file and the preview.png file) can be downloaded <a href="/skins.zip">here</a>.</p>
+      <p>The entire list (.zip file containing a directory for each skin, each including a metadata.json file and the preview.png file) can be downloaded <a href="/skins.zip">here</a>. Please note that this does not contain the actual skins, just metadata about them! There is currently no way to download all of the actual skins at once.</p>
 
       <div className='tabs'>
         <TabRadio name='tab' value='hollowKnight' checked={tab === 'hollowKnight'} text='Hollow Knight' icon={'/images/knight-icon.png'} iconAlt="The head of the Knight from Hollow Knight." onChange={handleTabChange} />
@@ -127,7 +128,7 @@ const IndexPage = ({data}) => {
       <div id="skins">
         <SkinList filteredSkins={filteredSkins} />
       </div>
-      <p className='copyright'>Copyright © 2024 - 2025 Tadeas Jun</p>
+      <p className='copyright'>Copyright © 2024 - 2026 Tadeas Jun</p>
     </main>
   )
 }
