@@ -91,7 +91,7 @@ const IndexPage = ({data}) => {
 
       <p>A repository of skins for the game Hollow Knight and its sequel, Silksong. Created and maintained by <span style={{ color: "#ff652f" }}>Tadeas Jun</span>. Read more about this project and its development on <a href="https://www.tadeasjun.com/blog/hollow-knight-skins/" target="_blank" rel="noreferrer">my blog</a>.</p>
       <p>If you use this website often, please consider helping to keep it running by supporting me <a href='https://ko-fi.com/tadeasjun' target='_blank' rel='noreferrer'>on Ko-fi</a>.</p>
-      <p>The website was last updated on <strong>2026-01-26</strong> (<em>v1.2.5</em>).</p>
+      <p>The website was last updated on <strong>2026-02-15</strong> (<em>v1.2.6</em>).</p>
 
       <h2>Installation & sources</h2>
       <p>The skins were collected from all around the internet. A special thanks goes to <a href="https://www.twitch.tv/colettemslp" target='_blank' rel="noreferrer">ColetteMSLP</a> for <a href="https://docs.google.com/document/d/1qKfOtOXpYormusD05I700P8d79E74R1bTb3MP4vum-E/" target='_blank' rel="noreferrer">her list</a>, and to the Hollow Knight Discord communities for spending countless hours tracking down skin files.</p>
