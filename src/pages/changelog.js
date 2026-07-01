@@ -7,6 +7,24 @@ const Changelog = () => {
       <h1>Changelog</h1>
       <p>This page documents the changes to the website and the collection. To see skins, <Link to="/">go back home</Link>.</p>
       <hr />
+
+      <h2>v1.3.1 (2026-07-01)</h2>
+      <ul>
+        <li><strong>New Knight skins:</strong></li>
+        <ol>
+          <li>lord x (v1) by lordxencoree</li>
+          <li>Realistic Head Knight by Matylda Chalupka</li>
+        </ol>
+        <li><strong>New Hornet skins:</strong></li>
+        <ol>
+          <li>Hornet Inverted by sooperwolf14</li>
+        </ol>
+        <li><strong>New non-character skins:</strong></li>
+        <ol>
+          <li>The 10th Angelchild by pesonenjasper</li>
+        </ol>
+      </ul>
+
       <h2>v1.3.0 (2026-04-14)</h2>
       <ul>
         <li><strong>Website updates:</strong></li>
