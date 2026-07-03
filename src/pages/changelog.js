@@ -8,12 +8,20 @@ const Changelog = () => {
       <p>This page documents the changes to the website and the collection. To see skins, <Link to="/">go back home</Link>.</p>
       <hr />
 
+      <h2>v1.3.2 (2026-07-03)</h2>
+      <ul>
+        <li><strong>Minor changes:</strong></li>
+        <ul>
+          <li>Changed author name for Realistic Head Knight by Mat_Mat (on author's request)</li>
+        </ul>
+      </ul>
+
       <h2>v1.3.1 (2026-07-01)</h2>
       <ul>
         <li><strong>New Knight skins:</strong></li>
         <ol>
           <li>lord x (v1) by lordxencoree</li>
-          <li>Realistic Head Knight by Matylda Chalupka</li>
+          <li>Realistic Head Knight by Mat_Mat</li>
         </ol>
         <li><strong>New Hornet skins:</strong></li>
         <ol>
